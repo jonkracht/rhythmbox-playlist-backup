@@ -27,3 +27,5 @@ These playlists have been lost several times, for example when updating the OS o
 
 ## Remaining Issues:
 * Grab user name and location of home folder from environment variables
+
+* Create folder of playlists
